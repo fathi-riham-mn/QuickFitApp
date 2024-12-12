@@ -42,7 +42,7 @@ QuickFitApp/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/QuickFitApp.git
+   git clone https://github.com/fathi-riham-mn/QuickFitApp
    ```
 
 2. Navigate into the project directory:
@@ -101,7 +101,7 @@ This project is licensed under the MIT License.
 Developed by MN Fathima Riham[321425551].
 
 
-This structure ensures clear organization, making it easy to navigate and scale the project. You can extend or modify the components as needed!
+This structure ensures clear organization, making navigating and scaling the project easy. You can extend or modify the components as needed!
 
 
 
